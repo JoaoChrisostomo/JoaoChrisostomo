@@ -2,8 +2,7 @@
 
 ## <h1 align="center"> Olá! Eu sou o Joao Chrisostomo 🖐️</h1>
 
-<p align="center">Estudo Desenvolvimento Web na <a href="https://portal.fmu.br/"><i>FMU</i></a>
-  <p>E já participei de alguns bootcamps</p>
+<p align="center">Estudo Desenvolvimento Web na <a href="https://portal.fmu.br/"><i>FMU</i></a> <br> E busco sempre participar de bootcamps para aprender cada vez mais</p>
  
 
 
@@ -33,7 +32,7 @@
 
 <br><br>
 
-<p align="left">
+<p align="center">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=JoaoChrisostomo&show_icons=true&theme=vision-friendly-dark" alt="JoaoChrisostomo's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoChrisostomo&layout=compact&theme=vision-friendly-dark" alt="JoaoChrisostomo's most languages"/>
 </p>
